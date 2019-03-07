@@ -1,0 +1,128 @@
+ZIP_Code	Classification	City	Population	Timezone	Area Code(s)
+ZIP Code 33002	P.O. Box	Hialeah	0	Eastern	305/786
+ZIP Code 33010	General	Hialeah	46,187	Eastern	305/786
+ZIP Code 33011	P.O. Box	Hialeah	0	Eastern	305/786
+ZIP Code 33012	General	Hialeah	72,248	Eastern	305/786
+ZIP Code 33013	General	Hialeah	33,852	Eastern	305/786
+ZIP Code 33014	General	Hialeah	40,654	Eastern	305/786
+ZIP Code 33015	General	Hialeah	63,544	Eastern	305/786
+ZIP Code 33016	General	Hialeah	45,342	Eastern	305/786
+ZIP Code 33017	P.O. Box	Hialeah	0	Eastern	305/786
+ZIP Code 33018	General	Hialeah	46,117	Eastern	305/786
+ZIP Code 33030	General	Homestead	34,110	Eastern	786/305
+ZIP Code 33031	General	Homestead	5,859	Eastern	786
+ZIP Code 33032	General	Homestead	34,088	Eastern	305/786
+ZIP Code 33033	General	Homestead	49,028	Eastern	305/786
+ZIP Code 33034	General	Homestead	18,613	Eastern	786/305
+ZIP Code 33035	General	Homestead	13,497	Eastern	786/305
+ZIP Code 33039	Unique	Homestead	122	Eastern	305
+ZIP Code 33054	General	Opa Locka	29,061	Eastern	305/786
+ZIP Code 33055	General	Opa Locka	43,194	Eastern	305
+ZIP Code 33056	General	Miami Gardens	35,059	Eastern	305/786
+ZIP Code 33090	P.O. Box	Homestead	0	Eastern	786/305
+ZIP Code 33092	P.O. Box	Homestead	0	Eastern	786/305
+ZIP Code 33101	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33102	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33106	Unique	Miami	0	Eastern	305/786
+ZIP Code 33109	General	Miami Beach	594	Eastern	786/305
+ZIP Code 33111	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33112	Unique	Miami	0	Eastern	786
+ZIP Code 33114	P.O. Box	Coral Gables	0	Eastern	305/786
+ZIP Code 33116	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33119	P.O. Box	Miami Beach	0	Eastern	786
+ZIP Code 33122	General	Miami	1	Eastern	305/786
+ZIP Code 33124	P.O. Box	Miami	0	Eastern	305/786
+ZIP Code 33125	General	Miami	52,677	Eastern	305/786
+ZIP Code 33126	General	Miami	46,867	Eastern	305/786
+ZIP Code 33127	General	Miami	28,909	Eastern	305
+ZIP Code 33128	General	Miami	7,562	Eastern	786/305
+ZIP Code 33129	General	Miami	13,833	Eastern	305
+ZIP Code 33130	General	Miami	26,108	Eastern	786/305
+ZIP Code 33131	General	Miami	14,917	Eastern	786/305
+ZIP Code 33132	General	Miami	11,165	Eastern	786/305
+ZIP Code 33133	General	Miami	31,926	Eastern	305
+ZIP Code 33134	General	Miami	37,456	Eastern	305/786
+ZIP Code 33135	General	Miami	36,066	Eastern	305/786
+ZIP Code 33136	General	Miami	13,791	Eastern	786/305
+ZIP Code 33137	General	Miami	19,410	Eastern	305
+ZIP Code 33138	General	Miami	27,571	Eastern	305
+ZIP Code 33139	General	Miami Beach	38,613	Eastern	305
+ZIP Code 33140	General	Miami Beach	21,210	Eastern	305/786
+ZIP Code 33141	General	Miami Beach	35,249	Eastern	305/786
+ZIP Code 33142	General	Miami	52,606	Eastern	305
+ZIP Code 33143	General	Miami	31,407	Eastern	305/786
+ZIP Code 33144	General	Miami	26,903	Eastern	305
+ZIP Code 33145	General	Miami	29,758	Eastern	305/786
+ZIP Code 33146	General	Miami	14,995	Eastern	305/786
+ZIP Code 33147	General	Miami	46,933	Eastern	305/786
+ZIP Code 33149	General	Key Biscayne	12,389	Eastern	305
+ZIP Code 33150	General	Miami	27,811	Eastern	305
+ZIP Code 33151	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33152	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33153	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33154	General	Miami Beach	13,971	Eastern	305/786
+ZIP Code 33155	General	Miami	43,788	Eastern	305/786
+ZIP Code 33156	General	Miami	31,315	Eastern	305/786
+ZIP Code 33157	General	Miami	63,226	Eastern	786/305
+ZIP Code 33158	General	Miami	6,694	Eastern	305/786
+ZIP Code 33160	General	North Miami Beach	40,053	Eastern	786/305
+ZIP Code 33161	General	Miami	53,710	Eastern	305/786/954
+ZIP Code 33162	General	Miami	43,539	Eastern	305/786/954
+ZIP Code 33163	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33164	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33165	General	Miami	56,149	Eastern	305
+ZIP Code 33166	General	Miami	23,038	Eastern	305/786
+ZIP Code 33167	General	Miami	18,846	Eastern	305/786
+ZIP Code 33168	General	Miami	25,792	Eastern	305/786
+ZIP Code 33169	General	Miami	39,353	Eastern	305/786
+ZIP Code 33170	General	Miami	12,253	Eastern	786
+ZIP Code 33172	General	Miami	37,664	Eastern	305/786
+ZIP Code 33173	General	Miami	33,141	Eastern	305/786
+ZIP Code 33174	General	Miami	32,524	Eastern	305/786
+ZIP Code 33175	General	Miami	53,206	Eastern	305/786
+ZIP Code 33176	General	Miami	50,170	Eastern	305/786
+ZIP Code 33177	General	Miami	53,191	Eastern	305/786
+ZIP Code 33178	General	Miami	39,489	Eastern	305/786
+ZIP Code 33179	General	Miami	41,332	Eastern	305/786
+ZIP Code 33180	General	Miami	30,840	Eastern	305/954
+ZIP Code 33181	General	Miami	18,413	Eastern	305/786
+ZIP Code 33182	General	Miami	16,929	Eastern	305/786
+ZIP Code 33183	General	Miami	35,949	Eastern	305/786
+ZIP Code 33184	General	Miami	21,075	Eastern	305/786
+ZIP Code 33185	General	Miami	27,189	Eastern	305/786
+ZIP Code 33186	General	Miami	67,137	Eastern	305/786
+ZIP Code 33187	General	Miami	16,315	Eastern	786
+ZIP Code 33188	Unique	Miami	0	Eastern	786
+ZIP Code 33189	General	Miami	23,828	Eastern	786/305
+ZIP Code 33190	General	Miami	11,593	Eastern	786/305
+ZIP Code 33191	General	Miami	0	Eastern	786
+ZIP Code 33192	General	Miami	0	Eastern	305/786
+ZIP Code 33193	General	Miami	46,044	Eastern	305/786
+ZIP Code 33194	General	Miami	7,742	Eastern	305/786
+ZIP Code 33195	General	Miami	0	Eastern	786
+ZIP Code 33196	General	Miami	43,620	Eastern	786
+ZIP Code 33197	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33198	General	Miami	0	Eastern	305
+ZIP Code 33199	Unique	Miami	0	Eastern	305/786
+ZIP Code 33206	Unique	Miami	0	Eastern	786
+ZIP Code 33222	P.O. Box	Miami	0	Eastern	305
+ZIP Code 33231	P.O. Box	Miami	0	Eastern	786/305
+ZIP Code 33233	P.O. Box	Miami	0	Eastern	305/786
+ZIP Code 33234	P.O. Box	Miami	0	Eastern	305/786
+ZIP Code 33238	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33239	P.O. Box	Miami Beach	0	Eastern	786
+ZIP Code 33242	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33243	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33245	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33247	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33255	P.O. Box	Miami	0	Eastern	305/786
+ZIP Code 33256	P.O. Box	Miami	0	Eastern	305/786
+ZIP Code 33257	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33261	P.O. Box	Miami	0	Eastern	305/786/954
+ZIP Code 33265	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33266	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33269	P.O. Box	Miami	0	Eastern	786
+ZIP Code 33280	P.O. Box	Miami	0	Eastern	305/954
+ZIP Code 33283	P.O. Box	Miami	0	Eastern	305/786
+ZIP Code 33296	P.O. Box	Miami	0	Eastern	305/786
+ZIP Code 33299	P.O. Box	Miami	0	Eastern	786
