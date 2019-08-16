@@ -285,7 +285,7 @@ sFL_joined_spdf <- geo_join(
 
 ## Tidy the Spatial Data Frame
 We have one last step before we can use `ggplot` to make a prettier map. We need to "sweep" the extra column information into rows (to make the spatial data frame tidy). This step can be very difficult. I will step into an older `tidyverse` package for help:
-```{r broom}
+```{r broom, warning=FALSE}
 library(broom)
 # Extract the shapefile as a data frame
 sFL_poly_df <- tidy(sFL_joined_spdf)
